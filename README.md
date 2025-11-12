@@ -39,4 +39,4 @@ Destroy - Right Mouse
 5 - Boss (the inner thoughts of my partner)
 
 ### Credit:
-Tygo Hendriks & Dillon de Groot
+Tygo Hendriks & Celeste de Groot
